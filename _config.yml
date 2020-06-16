@@ -1,14 +1,16 @@
-title: Huyen Vu # your name (or website title) here
-logo: "/images/photo.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Huyen Vu
+logo: "/images/photo.png"
+description: >
   M.S. Data Science
   <br><br>
   <a href="mailto:huyenvu09@outlook.com">Email</a>
-  <a href="https://www.linkedin.com/in/example/">Resume</a> 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">Resume</a>
+  <br><br>
   <a href="https://www.linkedin.com/in/huyen-vu-09/">LinkedIn</a>
+  <br><br>
   <a href="https://github.com/hvu15?tab=repositories">GitHub</a>
+  <br><br>
   <a href="https://observablehq.com/@thanhuyen1809?tab=notebooks&type=public">Observables Notebook</a>
 
-  
 theme: jekyll-theme-minimal
-
