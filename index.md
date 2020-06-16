@@ -25,5 +25,4 @@ Built a model to accurately classify a piece of news as real or fake using the n
 ---
 ### Publications
 
-[Machine Learning in Money Laundering Detection]
-(https://www.researchgate.net/publication/341277472_Proceedings_of_the_Third_Annual_Great_Lakes_Data_Science_Symposium)
+[Machine Learning in Money Laundering Detection](https://www.researchgate.net/publication/341277472_Proceedings_of_the_Third_Annual_Great_Lakes_Data_Science_Symposium)
