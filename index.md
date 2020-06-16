@@ -10,7 +10,7 @@ I am proficient in using Python, R, JavaScript, and SQL. I am interested in data
 ---
 ## PROJECTS
 
-### Machine Learning:
+### Machine Learning
 
 #### [Exploring Ensemble Learning](https://github.com/hvu15/explore-ensemble-learning) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/hvu15/explore-ensemble-learning)
 
@@ -34,4 +34,4 @@ Scraped data from the Wikipedia List of Super Bowl Champions page and created vi
 ---
 ## PUBLICATIONS
 
-[Machine Learning in Money Laundering Detection](https://www.researchgate.net/publication/341277472_Proceedings_of_the_Third_Annual_Great_Lakes_Data_Science_Symposium)
+#### [Machine Learning in Money Laundering Detection](https://www.researchgate.net/publication/341277472_Proceedings_of_the_Third_Annual_Great_Lakes_Data_Science_Symposium)
