@@ -10,16 +10,12 @@ I am proficient in using Python, R, JavaScript, and SQL. I am interested in data
 ---
 ### Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Exploring Ensemble Learning](https://github.com/hvu15/explore-ensemble-learning/blob/master/ensemble_learning.ipynb)
+- [Keras for Fraud Detection](https://github.com/hvu15/Keras-for-fraud-detection/blob/master/AML_EllipticDataSet.ipynb)
+- [Fake News Detection](https://github.com/hvu15/fake-news-detection)
 
 ---
 ### Publications
----
 
 [Machine Learning in Money Laundering Detection]
 (https://www.researchgate.net/publication/341277472_Proceedings_of_the_Third_Annual_Great_Lakes_Data_Science_Symposium)
-
