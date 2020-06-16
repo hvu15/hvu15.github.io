@@ -11,8 +11,16 @@ I am proficient in using Python, R, JavaScript, and SQL. I am interested in data
 ### Projects
 
 - [Exploring Ensemble Learning](https://github.com/hvu15/explore-ensemble-learning/blob/master/ensemble_learning.ipynb)
+
+Explored ensemble learning using the adult data set from the UCI machine learning repository
+
 - [Keras for Fraud Detection](https://github.com/hvu15/Keras-for-fraud-detection/blob/master/AML_EllipticDataSet.ipynb)
+
+Applied deep learning Keras to Bitcoin graph data set - Elliptic Data Set to classify licit and illicit Bitcoin transaction.
+
 - [Fake News Detection](https://github.com/hvu15/fake-news-detection)
+
+Built a model to accurately classify a piece of news as real or fake using the news data set on DataFlair.
 
 ---
 ### Publications
